@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.caixote {
+    margin: auto;
+    width: 100%;
+    height: 420px;
+    background-color: rgb(242, 247, 255);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.caixa {
+    width: 220px;
+    height: 360px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+}
+
+.img {
+    width: 90%;
+    height: 180px;
+    background-image: url(../../imagens/guitarrinha.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.caixa_h2 {
+    font-size: 15px;
+    text-align: center;
+}
+
+.caixa_p {
+    font-size: 18px;
+    color: red;
+    text-align: center;
+}

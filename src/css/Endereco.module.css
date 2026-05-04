@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.caixote_end{
+    width: 100%;
+    height: 390px;
+    background-color: rgb(161, 75, 41);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: black;
+    margin: auto;
+}
+
+.mapa{
+    width: 550px;
+    height: 320px;
+    background-size: cover;
+}
+
+.mapa iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.inf{
+    width: 550px;
+    height: 320px;
+    background:#c79a9a;
+    display: flex;
+    font-size: 18px; 
+    gap:20px;
+    color: aliceblue;
+    padding-top: 25px;
+    flex-direction: column;
+}
+
+.inf p, h2{
+    padding-left: 20px;
+    width: 90%;
+}
