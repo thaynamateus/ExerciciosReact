@@ -1,0 +1,7 @@
+.grand{
+    position: relative;
+    width: 100%;
+    height: 600px;
+    background-image: url(../imagens/GrandCanyon.jpg);
+    background-size: cover;
+}

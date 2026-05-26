@@ -1,0 +1,8 @@
+.aruba{
+    position: relative;
+    width: 100%;
+    height: 600px;
+    background-image: url(../imagens/Aruba.jpg);
+    background-size: cover;
+
+}

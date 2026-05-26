@@ -1,0 +1,12 @@
+.escocia{
+    position: relative;
+    width: 100%;
+    height: 600px;
+    background-image: url(../imagens/Escocia.jfif);
+    background-size: cover;
+}
+
+h1{
+    padding: 70px;
+    
+}
